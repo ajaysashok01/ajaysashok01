@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, cloud technologies, and innovative tech solutions.
 - 🌱 I’m currently learning full-stack development, Software Testing, and DevOps practices.
 - 💞️ I’m looking to collaborate on open-source projects related to web apps, mobile application, and AI-driven solutions.
-- 📫 How to reach me: You can email me at ajaysashok01@gmail.com or connect with me on LinkedIn [LinkedIn Profile URL].
+- 📫 How to reach me: You can email me at ajaysashok01@gmail.com or connect with me on LinkedIn www.linkedin.com/in/ajay-sinimol-ashok-057132292
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a huge fan of solving tech challenges and love experimenting with new ways to code.
 
